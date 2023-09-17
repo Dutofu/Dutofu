@@ -10,8 +10,6 @@ Je suis un étudiant passionné d'informatique âgé de 21 ans. Actuellement, je
 - **3D** (Blender)
 - **Montages photos et vidéos** (Photoshop, Premiere pro, After Effect ..)
 
-### Mes créations
-Voir ci-dessous
 
 ### À propos de moi
 
@@ -29,5 +27,8 @@ Voir ci-dessous
 ## Contact
 - **Mail:** blaise.duplantier@gmail.com
 - **Discord:** Tofu#5321
-- **Linkedin:** <a href="https://www.linkedin.com/in/blaise-duplantier-29417724b/">Blaise Duplantier</a>
-- **Instagram** <a href="https://www.instagram.com/blaise_dptr/">blaise_dptr</a>
+- **Linkedin:** <a href="https://www.linkedin.com/in/blaise-duplantier-29417724b/" target="_blank">Blaise Duplantier</a>
+- **Instagram** <a href="https://www.instagram.com/blaise_dptr/" target="_blank">blaise_dptr</a>
+
+### Mes créations
+Voir ci-dessous
